@@ -1,0 +1,15 @@
+Quien es tu profesor?
+1) Trini
+2) Pardella
+3) Serantes
+4) Todos los anteriores
+Donde nacio messi?
+1) Buenos Aires
+2) Rosario
+3) Chaco
+4) Once
+Donde queda La Pampa?
+1) La Pampa
+2) San Luis
+3) Que es la Pampa?
+4) En Paraguay
